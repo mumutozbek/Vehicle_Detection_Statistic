@@ -1,5 +1,3 @@
-# Vehicle_Detection_Statistics
-
 # Vehicle Tracking and Speed Detection System
 
 A real-time computer vision system for vehicle detection, tracking, and speed monitoring using YOLO and advanced computer vision techniques.
@@ -38,8 +36,8 @@ A real-time computer vision system for vehicle detection, tracking, and speed mo
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/mumutozbek/vehicle-tracking-system.git
-cd vehicle-tracking-system
+https://github.com/mumutozbek/Vehicle_Detection_Statistic.git
+cd Vehicle_Detection_Statistic
 ```
 
 2. Create and activate virtual environment:
