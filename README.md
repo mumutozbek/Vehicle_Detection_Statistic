@@ -1,7 +1,6 @@
 # Vehicle Tracking and Speed Detection System
 
-
-https://github.com/user-attachments/assets/d8605c8b-817a-43e8-9963-26442b2d6efe
+https://github.com/user-attachments/assets/637bfcc8-3681-4b5f-a4b0-da68b0e15a24
 
 
 A real-time computer vision system for vehicle detection, tracking, and speed monitoring using YOLO and advanced computer vision techniques.
@@ -38,7 +37,8 @@ A real-time computer vision system for vehicle detection, tracking, and speed mo
 
   
 
-https://github.com/user-attachments/assets/637bfcc8-3681-4b5f-a4b0-da68b0e15a24
+https://github.com/user-attachments/assets/d8605c8b-817a-43e8-9963-26442b2d6efe
+
 
 
 
