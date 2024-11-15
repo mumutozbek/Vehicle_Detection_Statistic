@@ -8,7 +8,7 @@ A real-time computer vision system for vehicle detection, tracking, and speed mo
 ## Features
 
 ### Real-time Detection & Tracking
-- Vehicle detection using YOLOv8
+- Vehicle detection using YOLOv8 or YOLO11
 - Real-time speed estimation
 - High-speed vehicle alerts (>40 km/h)
 - Accurate IN/OUT counting
