@@ -142,7 +142,7 @@ vehicle-tracking-system/
 MIT License
 
 ## Acknowledgments
-- YOLOv8 for object detection
+- YOLOv8 (or you can try it with yolo11) for object detection
 - PyQt6 for the user interface
 - OpenCV for video processing
 
