@@ -1,5 +1,10 @@
 # Vehicle Tracking and Speed Detection System
 
+![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+![Framework](https://img.shields.io/badge/framework-PyQt6-orange)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+
 https://github.com/user-attachments/assets/637bfcc8-3681-4b5f-a4b0-da68b0e15a24
 
 
